@@ -1,7 +1,7 @@
 # Valley
 The Perfect SMP Experience For You To Play With Up To 8~16 Friends!
 
-![Logo](https://cdn.modrinth.com/data/cached_images/ea89e9561b4b0b05458a7edd96bc9dead5c460a2.png)
+![Logo 2](https://github.com/yunus-cakir/Valley/assets/83448525/b9e80e28-0f39-4b68-9472-befa11a3af72)
 
 ## The Best SMP that you can play with your friends!
 
